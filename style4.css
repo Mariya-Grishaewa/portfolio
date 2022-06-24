@@ -5,22 +5,19 @@ body {
 
 h1 {
     text-align: center;
-    background-color: rgb(255, 122, 122);
 }
 
 h2 {
     text-align: center;
-    background-color: rgb(255, 122, 122);
 }
 
 h3 {
     text-align: center;
-    background-color: rgb(255, 122, 122);
 }
 
 footer {
     padding: 2px;
-    background-color: rgb(255, 122, 122);
+    background-color: rgb(255, 142, 142);
     text-align: center;
     color: aliceblue;
 }
