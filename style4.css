@@ -21,3 +21,17 @@ footer {
     text-align: center;
     color: aliceblue;
 }
+
+header {
+    text-align: center;
+    background-color: rgb(255, 142, 142);
+    margin: 10px;
+    padding: 10px;
+}
+
+nav {
+    text-align: center;
+    background-color: rgb(255, 142, 142); 
+    margin: 10px;
+    padding: 50px;
+}
